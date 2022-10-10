@@ -1,0 +1,4 @@
+port: 8001
+app_secret: null
+corpora_path: ./chat/corpus.gob
+web_hook: https://oapi.dingtalk.com/robot/send?access_token=

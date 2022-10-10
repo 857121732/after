@@ -1,0 +1,12 @@
+categories:
+  - 娃来了！
+conversations:
+  - - 你好鸭！
+    - 你好鸭！嘻嘻嘻！
+  - - 你好鸭！
+    - 娃不好！嘤嘤嘤！
+  - - 你好鸭！
+    - 今天开心心嗷！！
+
+## ./train -i train.yml -o ../chat/corpus.gob
+## https://github.com/kevwan/chatbot
